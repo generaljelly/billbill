@@ -1,0 +1,6 @@
+/workspaces/billbill/thisisc++/build/CMakeFiles/rebuild_cache.dir
+/workspaces/billbill/thisisc++/build/CMakeFiles/docs.dir
+/workspaces/billbill/thisisc++/build/CMakeFiles/forcetest.dir
+/workspaces/billbill/thisisc++/build/CMakeFiles/edit_cache.dir
+/workspaces/billbill/thisisc++/build/CMakeFiles/test.dir
+/workspaces/billbill/thisisc++/build/CMakeFiles/lint.dir
